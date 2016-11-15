@@ -11,7 +11,7 @@ However, setting the site URL to the production domain enables you to move the s
 Made with ❤️ by [Pocketsize](http://www.pocketsize.se/)
 
 ## Version
-0.0.1
+0.0.2
 
 ## License
 Replace Absolute URLs is licensed under the MIT License. See LICENSE.md for details.
